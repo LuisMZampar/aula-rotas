@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from './routes/Home/index.jsx'
-import EditarProdutos from './routes/index.jsx'
+import EditarProdutos from './routes/EditarProdutos/index.jsx'
 import Error from './routes/Error/index.jsx'
 import Produtos from './routes/Produtos/index.jsx'
 
