@@ -9,9 +9,10 @@ function App() {
 
       <Menu />
       <Outlet />
-      <Rodape/>
+      <Rodape/> 
       
     </>
+
   )
 }
 export default App
