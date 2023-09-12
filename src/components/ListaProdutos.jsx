@@ -1,8 +1,9 @@
 export const ListaProdutos = [
     {
         id: 1,
-        nome: 'Teclado',
-        preco: 150
+        nome: 'Iphone 13',
+        preco: 4200,
+        image: '/src/assets/transferir (1).JPG'
     },
     {
         id: 2,
