@@ -21,6 +21,7 @@ export default function EditarProdutos(){
         <main>
             <h1>{produto.nome}</h1>
             <p>Seu preço é de apenas: {produto.preco} </p>
+            <img src= {produto.image} alt="Imagem Iphone 13" />
             <button onClick={salvar}>Salvar</button>
         </main>
     )
