@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { ListaProdutos } from "../../components/ListaProdutos"
+import { ListaProdutos } from "../../components/Aparelhos"
 
 export default function Produtos() {
     return (
